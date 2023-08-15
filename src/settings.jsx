@@ -7,9 +7,9 @@ const useLocalFallback = (key, fallback) => {
 
 export var useLocalLanguage = () => useLocalFallback("language", "en");
 export var useLocalEngine = () => useLocalFallback("engine", "Google");
-export var useLocalBackground = () => useLocalFallback("background", "none");
-export var useLocalAppearance = () => useLocalFallback("appearance", "default");
-export var useLocalControls = () => useLocalFallback("controls", "default");
+export var useLocalBackground = () => useLocalFallback("background", "particles");
+export var useLocalAppearance = () => useLocalFallback("appearance", "space");
+export var useLocalControls = () => useLocalFallback("controls", "modern");
 export var useLocalWindow = () => useLocalFallback("window", "default");
 export var useLocalRounding = () => useLocalFallback("rounding", "default");
 export var useLocalProxy = () => useLocalFallback("type", "Ultraviolet");
