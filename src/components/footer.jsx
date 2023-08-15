@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Obfuscate from "./obfuscate.jsx";
-import { github, discord } from "../consts";
 import { useTranslation } from 'react-i18next';
 
 function Footer() {
@@ -15,6 +14,9 @@ function Footer() {
           </Link>
           <Link className="footersides link" to="/5.html">
             <Obfuscate>{t("credits")}</Obfuscate>
+          </Link>
+          <Link className="footersides link" to="/6.html">
+            <Obfuscate>{t("FAQ")}</Obfuscate>
           </Link>
         </div>
         <div className="footermiddle">

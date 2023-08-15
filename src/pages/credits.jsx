@@ -3,6 +3,7 @@ import Nav from "../components/nav.jsx";
 import Head from "../components/head.jsx";
 import Obfuscate from "../components/obfuscate.jsx";
 import { useTranslation } from 'react-i18next';
+import { leadEmail, secondEmail } from "../consts";
 
 function Support() {
   const { t } = useTranslation("credits");
@@ -19,10 +20,10 @@ function Support() {
           <Obfuscate>{t("developers")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>Boofdev - {t("mainDevText")}</Obfuscate>
+          <Obfuscate>Boofdev({leadEmail}) - {t("mainDevText")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>tomotow - {t("devText")}</Obfuscate>
+          <Obfuscate>tomotow({secondEmail}) - {t("devText")}</Obfuscate>
         </div>
         <div className="itemtitle">
           <Obfuscate>{t("proxies")}</Obfuscate>
