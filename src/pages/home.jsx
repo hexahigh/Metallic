@@ -5,6 +5,8 @@ import Obfuscate from "../components/obfuscate.jsx";
 import Head from "../components/head.jsx";
 import Proxy from "../components/proxy.jsx";
 import BareClient from "@tomphttp/bare-client";
+import { ReactComponent as LogoSVG } from "../assets/logo.svg";
+import { ReactComponent as BannerSVG } from "../assets/banner.svg";
 import { bareServerURL } from "../consts.jsx";
 import { getLink } from "../util.jsx";
 import { useLocalAppearance } from "../settings.jsx";
@@ -147,7 +149,7 @@ function Home() {
       <Proxy ref={proxy} />
       <Nav />
       <div className="hometitle">
-        <Obfuscate>Metallic</Obfuscate>
+    <BannerSVG></BannerSVG>
       </div>
       <div ref={omniboxcontainer} className="omniboxcontainer">
         <div ref={omnibox} className="omnibox">

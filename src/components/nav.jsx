@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import AppsIcon from "@mui/icons-material/Apps";
-import VideogameAssetIcon from "@mui/icons-material/VideogameAsset";
 import SettingsIcon from "@mui/icons-material/Settings";
 import { ReactComponent as LogoSVG } from "../assets/logo.svg";
 import { ReactComponent as TsunamiSVG } from "../assets/tsunamiLogo.svg";
@@ -27,9 +26,6 @@ function Nav() {
       <div className="navitems">
         <Link className="navitem" to="/1.html">
           <AppsIcon />
-        </Link>
-        <Link className="navitem" to="/2.html">
-          <VideogameAssetIcon />
         </Link>
         <Link className="navitem" to="/3/1.html">
           <SettingsIcon />

@@ -19,10 +19,10 @@ function Support() {
           <Obfuscate>{t("developers")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>Nebeung - {t("mainDevText")}</Obfuscate>
+          <Obfuscate>Boofdev - {t("mainDevText")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>Divide - {t("devText")}</Obfuscate>
+          <Obfuscate>tomotow - {t("devText")}</Obfuscate>
         </div>
         <div className="itemtitle">
           <Obfuscate>{t("proxies")}</Obfuscate>
@@ -41,15 +41,6 @@ function Support() {
         </div>
         <div className="itemtext">
           <Obfuscate>EndlessVortex - Aero</Obfuscate>
-        </div>
-        <div className="itemtitle">
-          <Obfuscate>{t("games")}</Obfuscate>
-        </div>
-        <div className="itemtext">
-          <Obfuscate>BinBashBanana - gfiles</Obfuscate>
-        </div>
-        <div className="itemtext">
-          <Obfuscate>BinBashBanana - WebRetro</Obfuscate>
         </div>
         <div className="itemtitle">
           <Obfuscate>{t("others")}</Obfuscate>

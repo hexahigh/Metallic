@@ -26,7 +26,7 @@ function Head({ defaultTitle }) {
   document.body.setAttribute("rounding", localRounding);
 
   React.useEffect(() => {
-    var translatedTitle = defaultTitle ? t(defaultTitle) + " | " + "Metallic" : "Metallic"
+    var translatedTitle = defaultTitle ? t(defaultTitle) + " | " + "Thorium" : "Thorium"
     var title = localTitle || translatedTitle || "";
 
     document.title = title;
