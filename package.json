@@ -1,8 +1,8 @@
 {
-  "name": "metallic",
+  "name": "thorium",
   "version": "1.9",
   "description": "A powerful web proxy build for speed and customization.",
-  "repository": "https://github.com/Metallic-Web/Metallic.git",
+  "repository": "https://gitte.080609.xyz/ajax/thorium.git",
   "license": "MIT",
   "author": "Nebelung",
   "type": "module",

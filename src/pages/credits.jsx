@@ -25,6 +25,9 @@ function Support() {
         <div className="itemtext">
           <Obfuscate>tomotow({secondEmail}) - {t("devText")}</Obfuscate>
         </div>
+        <div className="itemtext">
+          <Obfuscate>Nebelung-dev - Creating the original proxy</Obfuscate>
+        </div>
         <div className="itemtitle">
           <Obfuscate>{t("proxies")}</Obfuscate>
         </div>

@@ -17,16 +17,16 @@ function Support() {
           <Obfuscate>{t("faq")}</Obfuscate>
         </div>
         <div className="itemtitle">
-          <Obfuscate>How can i contact you?</Obfuscate>
+          <Obfuscate>{t("questions.0.title")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>Our emails can be found on the credits page.</Obfuscate>
+          <Obfuscate>{t("questions.0.answer")}</Obfuscate>
         </div>
         <div className="itemtitle">
-          <Obfuscate>I found a bug!</Obfuscate>
+          <Obfuscate>{t("questions.1.title")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>Good, please make a issue on our gitte repo: {repo}</Obfuscate>
+          <Obfuscate>{t("questions.1.answer")} {repo}</Obfuscate>
         </div>
       </div>
     </>
