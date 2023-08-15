@@ -20,9 +20,9 @@
       "url": "https://twitter.com/explore"
     },
     {
-      "name": "Reddit",
-      "icon": "/apps/reddit.png",
-      "url": "https://reddit.com"
+      "name": "Lemmy.ml",
+      "icon": "/apps/lemmy.svg",
+      "url": "https://lemmy.ml"
     },
     {
       "name": "Twitch",
@@ -40,23 +40,18 @@
       "url": "https://www.tiktok.com"
     },
     {
-      "name": "Bored Panda",
-      "icon": "/apps/boredpanda.png",
-      "url": "https://www.boredpanda.com"
-    },
-    {
       "name": "Zoom",
       "icon": "/apps/zoom.png",
       "url": "https://pwa.zoom.us/wc"
     },
     {
-      "name": "Pintrest",
-      "icon": "/apps/pintrest.png",
-      "url": "https://www.pinterest.com/today"
+      "name": "Phind",
+      "icon": "/apps/phind.png",
+      "url": "https://phind.com"
     },
     {
-      "name": "ChatGPT",
-      "icon": "/apps/chatgpt.svg",
-      "url": "https://chat.openai.com"
+      "name": "Cheatnetwork",
+      "icon": "/apps/cn.svg",
+      "url": "https://cheatnetwork.eu"
     }
 ]
