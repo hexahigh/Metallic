@@ -47,13 +47,13 @@ function Search() {
           <Obfuscate>Ultraviolet</Obfuscate>
         </ProxyOption>
         <ProxyOption type="Stomp">
-          <Obfuscate>Stomp</Obfuscate>
+          <Obfuscate>Stomp[BETA]</Obfuscate>
         </ProxyOption>
         <ProxyOption type="DIP">
-          <Obfuscate>DIP</Obfuscate>
+          <Obfuscate>DIP[BETA]</Obfuscate>
         </ProxyOption>
         <ProxyOption type="Aero">
-          <Obfuscate>Aero</Obfuscate>
+          <Obfuscate>Aero[BETA]</Obfuscate>
         </ProxyOption>
       </div>
       <div className="optiontitle">
