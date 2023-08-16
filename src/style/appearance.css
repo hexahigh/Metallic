@@ -518,3 +518,16 @@ body[appearance="pride"] {
 body[appearance="pride"] .omniboxcontainersearch {
   background: transparent;
 }
+
+body[appearance="ow1"] {
+  background-image: url("/img/ow1.jpg");
+  --text: white;
+  --text-contrast: white;
+  --highlight: #004953;
+  --background: #171717;
+  --placeholder: #bdc1c6;
+  --font-main: "Roboto";
+  --font-title: "Open Sans";
+  --secondary: #ffffff1a;
+  --hover: #ffffff33;
+}

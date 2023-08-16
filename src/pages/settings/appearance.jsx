@@ -185,6 +185,9 @@ function Appearance() {
         <ThemeOption type="tsunami">
           <Obfuscate>Tsunami</Obfuscate>
         </ThemeOption>
+        <ThemeOption type="ow1">
+          <Obfuscate>Outer Wilds</Obfuscate>
+        </ThemeOption>
         { localStorage.getItem("echo") === "true"  ? (
         <ThemeOption type="echo">
           <Obfuscate>3kh0</Obfuscate>
