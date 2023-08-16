@@ -27,6 +27,9 @@ function Nav() {
         <Link className="navitem" to="/1.html">
           <AppsIcon />
         </Link>
+        <Link className="navitem" to="/2.html">
+          <VideogameAssetIcon />
+        </Link>
         <Link className="navitem" to="/3/1.html">
           <SettingsIcon />
         </Link>
