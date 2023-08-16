@@ -11,7 +11,7 @@ self.addEventListener("install", function (e) {
 });
 
 async function handleRequest(fetchPath) {
-  var CDN = "https://raw.githubusercontent.com/3kh0/3kh0-Assets/main"
+  var CDN = "https://assets.proxy.080609.xyz"
 
   fetchPath = CDN + "/" + fetchPath;
 
