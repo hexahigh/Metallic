@@ -11,7 +11,7 @@ self.addEventListener("install", function (e) {
 });
 
 async function handleRequest(fetchPath) {
-  var CDN = "https://assets.proxy.080609.xyz"
+  var CDN = "https://raw.githubusercontent.com/hexahigh/Thorium-Assets/main"
 
   fetchPath = CDN + "/" + fetchPath;
 
