@@ -531,3 +531,16 @@ body[appearance="ow1"] {
   --secondary: #ffffff1a;
   --hover: #ffffff33;
 }
+
+body[appearance="ow2"] {
+  background-image: url("/img/ow2.jpg");
+  --text: #282425;
+  --text-contrast: var(--background);
+  --highlight: #7d7259;
+  --background: #d2c59d;
+  --placeholder: var(--background);
+  --font-main: "Roboto";
+  --font-title: "Open Sans";
+  --secondary: #0000001a;
+  --hover: #00000033;
+}
