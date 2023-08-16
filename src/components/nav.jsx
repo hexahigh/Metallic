@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import AppsIcon from "@mui/icons-material/Apps";
 import SettingsIcon from "@mui/icons-material/Settings";
+import VideogameAssetIcon from "@mui/icons-material/VideogameAsset";
 import { ReactComponent as LogoSVG } from "../assets/logo.svg";
 import { ReactComponent as TsunamiSVG } from "../assets/tsunamiLogo.svg";
 import { ReactComponent as BananaSVG } from "../assets/bananaLogo.svg";
