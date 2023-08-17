@@ -174,7 +174,7 @@ function Appearance() {
           <Obfuscate>Fracital</Obfuscate>
         </ThemeOption>
         <ThemeOption type="amethyst">
-          <Obfuscate>Amethyst</Obfuscate>d
+          <Obfuscate>Amethyst</Obfuscate>
         </ThemeOption>
         <ThemeOption type="simple">
           <Obfuscate>Simple</Obfuscate>
