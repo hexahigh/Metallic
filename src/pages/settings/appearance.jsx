@@ -189,7 +189,7 @@ function Appearance() {
           <Obfuscate>Outer Wilds</Obfuscate>
         </ThemeOption>
         <ThemeOption type="ow2">
-          <Obfuscate>Outer Wilds 2</Obfuscate>
+          <Obfuscate>Nomai</Obfuscate>
         </ThemeOption>
         { localStorage.getItem("echo") === "true"  ? (
         <ThemeOption type="echo">
