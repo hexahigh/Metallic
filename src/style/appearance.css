@@ -534,7 +534,7 @@ body[appearance="ow1"] {
 
 body[appearance="ow2"] {
   background-image: url("/img/ow2.jpg");
-  --text: #867e67;
+  --text: #000000;
   --text-contrast: var(--background);
   --highlight: #7d7259;
   --background: #d2c59d;

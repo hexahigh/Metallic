@@ -23,7 +23,7 @@ function Support() {
           <Obfuscate>Boofdev({leadEmail}) - {t("mainDevText")}</Obfuscate>
         </div>
         <div className="itemtext">
-          <Obfuscate>tomotow({secondEmail}) - {t("devText")}</Obfuscate>
+          <Obfuscate>tomotow({secondEmail}) - {t("tomotowText")}</Obfuscate>
         </div>
         <div className="itemtext">
           <Obfuscate>Nebelung-dev - Creating the original proxy</Obfuscate>
